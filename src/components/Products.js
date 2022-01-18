@@ -15,7 +15,13 @@ const Products = () => {
         id: 3, 
         title: "pc",
         desc: "This is pentium 4 system."
-    }]
+    },
+    {
+        id: 4, 
+        title: "phone",
+        desc: "This is nokia 1200 modal."
+    }
+]
     return (
         <div>
             <h1>This is products list</h1>
